@@ -1,0 +1,12 @@
+{
+    "name": "adminoa",
+    "description": "first project",
+    "authors": "nest",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index",
+        "bot": "node ./src/index.js"
+    },
+    "dependencies": {"linebot": "1.6.1"}
+}
